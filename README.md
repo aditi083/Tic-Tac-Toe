@@ -3,7 +3,6 @@
 ## :rocket: Knowledges
 
 -   `ReactJS`
--   `Framer Motion`
 
 ## :book: How to use
 

@@ -12,7 +12,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 ## Clone this repository
 
 ```
-git clone https://github.com/ucfx/TIC-TAC-TOE-GAME.git
+git clone https://github.com/aditi083/Tic-Tac-Toe.git
 ```
 
 ## Go into the repository
